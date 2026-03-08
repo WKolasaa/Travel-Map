@@ -1,0 +1,1 @@
+ALTER TABLE places ALTER COLUMN trip_id DROP NOT NULL;
